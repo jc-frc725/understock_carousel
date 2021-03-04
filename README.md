@@ -1,8 +1,17 @@
-# Carousel-Service
+# Understock Carousel
 
 ## Introduction
 
 This is the source code for the related items carousel of Understock.com, an overstock.com lookalike.
+
+![XLFHYtPt1u](https://user-images.githubusercontent.com/71245868/109920175-c3505280-7c6e-11eb-82b5-a6c76cd64e3e.png)
+
+
+## Usage
+Use the left and right buttons to scroll through the list of items. Hover over an item to display a short description.
+
+![7Ob5YNdDPy](https://user-images.githubusercontent.com/71245868/109920091-a287fd00-7c6e-11eb-9f59-b188a91a602f.gif)
+
 
 ## Directories
 * Client-side UI (React)
