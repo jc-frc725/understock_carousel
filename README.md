@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This is the module for the image carousel service for LumberJackCasual's Front-end Capstone project (FEC). 
+This is the source code for the related items carousel of Understock.com, an overstock.com lookalike.
 
 ## Directories
 * Client-side UI (React)
