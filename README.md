@@ -25,3 +25,4 @@ Use the left and right buttons to scroll through the list of items. Hover over a
 2. Run ```npm seed``` to seed DB
 3. Run ```npm run watch-dev``` to compile components
 4. Run ```npm run server``` to serve static files
+5. Navigate to localhost:3002/?propertyId=[1-100]
